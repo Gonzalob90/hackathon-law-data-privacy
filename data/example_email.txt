@@ -1,0 +1,41 @@
+Subject: Request for Legal Action Regarding Data Breach Notification
+
+Dear [Solicitor's Name],
+
+I hope this email finds you well. My name is John Doe, and I am writing to seek your legal assistance concerning a data breach notification I recently received from ABC Corporation.
+
+On June 23, 2024, I was informed by ABC Corporation that unauthorized access to their systems had occurred on June 15, 2024. This breach has potentially exposed my sensitive personal data, including my name, address, Social Security number, and financial information. A copy of the notification letter is attached for your reference.
+
+Given the serious nature of this breach and the potential impact on my personal and financial security, I am seeking your advice on the following matters:
+
+Legal Recourse: What legal actions can I take against ABC Corporation for failing to protect my personal information adequately?
+Compensation: Am I entitled to any compensation for the potential damages resulting from this data breach?
+Preventative Measures: What steps should I take to protect myself from potential identity theft or financial loss?
+I am deeply concerned about the implications of this incident and am eager to understand my rights and the legal options available to me. Your expertise in such matters is highly valued, and I would appreciate it if we could arrange a consultation at your earliest convenience to discuss this matter further.
+
+Please let me know a suitable time for us to meet or have a phone call. I am available [provide your availability]. Additionally, if there are any documents or further information you require from me beforehand, please do not hesitate to ask.
+
+Thank you for your prompt attention to this matter. I look forward to your response.
+
+Best regards,
+
+John Doe
+[Phone Number]
+[Email Address]
+[Attachment: Data Breach Notification Letter from ABC Corporation]
+
+
+
+def read_pdf(byte_stream):
+    reader = PdfReader(byte_stream)
+    number_of_pages = len(reader.pages)
+    list_extracted_text = []
+    for page_index in range(number_of_pages):
+        page = reader.pages[page_index]
+        text = page.extract_text()
+        list_extracted_text.append(text)
+
+    extracted_text = "\n\n".join(list_extracted_text)
+    return extracted_text
+
+

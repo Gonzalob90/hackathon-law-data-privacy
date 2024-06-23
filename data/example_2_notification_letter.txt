@@ -1,0 +1,11 @@
+Subject: Important Security Notice
+Dear Rinhongii,
+We prioritize the privacy of your personal information and are writing to inform you of a recent event that may have resulted in the possible disclosure of some of your personal data, though your payment card information is not affected.
+On the evening of August 20th, an individual contacted us claiming to have obtained online shopping information of several of our customers. There is no evidence to suggest that Superdrug's systems have been compromised. We believe the individual acquired customers' email addresses and passwords from other websites and used those credentials to access accounts on our website. The individual claims to have obtained information on approximately 20,000 customers, but we have only verified 386 cases. Your details are not among the 386 customers affected.
+The accessed information may include customers' names, addresses, and in some cases, date of birth, phone numbers, and points balances. As a precaution and in line with good security practices, we advise you to change your Superdrug.com password immediately and to do so regularly going forward.
+We deeply regret any inconvenience and concern this may have caused. We have reported this incident to the Police and Action Fraud (the UK's national fraud and cyber-crime arm) and are cooperating fully with their investigation. We remain committed to protecting our customers' data.
+For further information, please contact: Superdrug Customer Services Phone: 03456 710 709 Email: help@superdrug.com
+Sincerely,
+Peter Macnab
+CEO, Superdrug
+This is a service message.
