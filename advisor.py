@@ -9,8 +9,6 @@ import prompts
 import const
 
 llm_client_advisor = LLMClient(system_prompt=prompts.ADVISER_SYSTEM_PROMPT,
-                            #    base_url='https://api.together.xyz/v1', 
-                            #    model='meta-llama/Llama-3-8b-chat-hf', 
                                model="gpt-4")
 
 
